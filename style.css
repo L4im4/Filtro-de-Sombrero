@@ -1,0 +1,16 @@
+h1{
+color: forestgreen;
+text-align: center;
+}
+
+button{
+text-align: center;
+background-color: darkturquoise;
+}
+body{
+    text-align: center;
+    background-color: lightgreen;
+}
+canvas{
+    border: 12px dashed salmon;
+}
