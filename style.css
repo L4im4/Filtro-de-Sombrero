@@ -13,4 +13,6 @@ body{
 }
 canvas{
     border: 12px dashed salmon;
+    width: 400px;
+    height: 400px;
 }
